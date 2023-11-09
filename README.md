@@ -1,3 +1,16 @@
+# ESP8266 Code Writing Guide
+
+1. [Introduction](#introduction)
+2. [Setting Up Your Environment](#setup)
+3. [Hello World](#hello-world)
+4. [Connecting to Wi-Fi](#wifi-connection)
+5. [GPIO Control](#gpio-control)
+6. [Sensor Integration](#sensor-integration)
+7. [Web Server](#web-server)
+8. [Troubleshooting](#troubleshooting)
+9. [Conclusion](#conclusion)
+
+
 # smartbox
 HTL Junior Project "smartbox" 
 This project was created for students who are interested in Electronics. You will find here a guide on how to set up your ESP8266 mini D1
