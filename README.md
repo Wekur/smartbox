@@ -1,6 +1,6 @@
 # ESP8266 Code Writing Guide
 
-1. [Introduction](#introduction)
+1. [Introduction]
 2. [Setting Up Your Environment](#setup)
 3. [Hello World](#hello-world)
 4. [Connecting to Wi-Fi](#wifi-connection)
@@ -30,3 +30,6 @@ Easy accessable and can be used as a fun Logo.
 No clue what that is suppose to do tho 
 
 #lots of website developing stuff
+
+
+(#introduction)
