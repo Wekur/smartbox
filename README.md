@@ -30,6 +30,7 @@ Let us know what you would want us to add per Discord or per Instagram.
 
 # 16x16 LED Matrix || RGB Streifen 
 Easy accessable and can be used as a fun Logo. 
+Upload games to be accessable through web
 
 # Bluetooth Device manager
 No clue what that is suppose to do tho 
