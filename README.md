@@ -36,6 +36,6 @@ Upload games to be accessable through web
 No clue what that is suppose to do tho 
 
 #lots of website developing stuff
-
+connect ESP8266 to wifi so that it has internet too 
 
 (#introduction)
