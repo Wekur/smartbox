@@ -1,19 +1,9 @@
 # ESP8266 Code Writing Guide
 
-##Introduction
+#Introduction
 
 - [Introduction](#introduction)
 
-
-1. [Introduction](#introduction)
-2. [Setting Up Your Environment](#setup)
-3. [Hello World](#hello-world)
-4. [Connecting to Wi-Fi](#wifi-connection)
-5. [GPIO Control](#gpio-control)
-6. [Sensor Integration](#sensor-integration)
-7. [Web Server](#web-server)
-8. [Troubleshooting](#troubleshooting)
-9. [Conclusion](#conclusion)
 
 
 ##Introduction
@@ -31,9 +21,6 @@ Let us know what you would want us to add per Discord or per Instagram.
 # Amazon Links to the Extentions: 
 
 ## Introduction {#introduction}
-Welcome to the ESP8266 Code Writing Guide! ...
-
-## Introduction <a name="introduction"></a>
 Welcome to the ESP8266 Code Writing Guide! ...
 
 
