@@ -5,8 +5,6 @@
 - [Introduction](#introduction)
 
 
-
-##Introduction
 #introduction
 
 # smartbox
