@@ -2,6 +2,9 @@
 
 ##Introduction
 
+- [Introduction](#introduction)
+
+
 1. [Introduction](#introduction)
 2. [Setting Up Your Environment](#setup)
 3. [Hello World](#hello-world)
@@ -26,6 +29,13 @@ The Starterpack only contains the ESP8266, one PCB and 3 LEDS, altho you can eas
 Let us know what you would want us to add per Discord or per Instagram. 
 
 # Amazon Links to the Extentions: 
+
+## Introduction {#introduction}
+Welcome to the ESP8266 Code Writing Guide! ...
+
+## Introduction <a name="introduction"></a>
+Welcome to the ESP8266 Code Writing Guide! ...
+
 
 
 # 16x16 LED Matrix || RGB Streifen 
