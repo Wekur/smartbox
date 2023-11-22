@@ -110,29 +110,29 @@ void loop(){
   if(!seq){
     server.handleClient(); 
   }else{      //prototype sequence
-    LedOn(0);
+    ledOn(0);
     delay(200);
-    LedOn(1);
+    ledOn(1);
     delay(200);
-    LedOn(2);
+    ledOn(2);
     delay(200);
-    LedOn(3);
+    ledOn(3);
     delay(200);
-    LedOn(4);
+    ledOn(4);
     delay(200);
-    LedOn(5);
+    ledOn(5);
     delay(200);
-    LedOff(0);
+    ledOff(0);
     delay(200);
-    LedOff(1);
+    ledOff(1);
     delay(200);
-    LedOff(2);
+    ledOff(2);
     delay(200);
-    LedOff(3);
+    ledOff(3);
     delay(200);
-    LedOff(4);
+    ledOff(4);
     delay(200);
-    LedOff(5);
+    ledOff(5);
     delay(200);
   }
   
