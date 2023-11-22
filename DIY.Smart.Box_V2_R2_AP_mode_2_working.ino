@@ -1,7 +1,7 @@
 #include <ESP8266WebServer.h>  // <WebServer.h> for ESP32  
 #include <list>
 
-int led[6] = {5,4,A4,0,A3,2}; //pins that the LEDs are connected to
+int led[6] = {5,4,14,0,13,2}; //pins that the LEDs are connected to
 bool led_status[6] = {false};
 bool seq=false;
 
