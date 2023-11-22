@@ -109,7 +109,9 @@ void setup(){
 void loop(){
   if(!seq){
     server.handleClient(); 
-  }else{
+  }else{      //prototype sequence
+    LedOn(0);
+    delay(200);
     LedOn(1);
     delay(200);
     LedOn(2);
@@ -119,6 +121,8 @@ void loop(){
     LedOn(4);
     delay(200);
     LedOn(5);
+    delay(200);
+    LedOff(0);
     delay(200);
     LedOff(1);
     delay(200);
@@ -151,7 +155,11 @@ void seqOn(){
   for(int i=0;i<sizeOf(led_status;i++){
     ledOff(i);
   }
-  seq=true;
+	seq=true;
+}
+
+void seqOff(){
+  seq=false;
 }
 
 
